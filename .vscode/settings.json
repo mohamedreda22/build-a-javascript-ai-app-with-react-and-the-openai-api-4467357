@@ -18,8 +18,16 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 18,
-  "workbench.activityBar.visible": true,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true
+  "workbench.statusBar.visible": true,
+  "remote.portsAttributes": {
+    "443": {
+      "protocol": "https"
+    },
+    "8443": {
+      "protocol": "https"
+    }
+  },
+  "liveServer.settings.multiRootWorkspaceName": "build-a-javascript-ai-app-with-react-and-the-openai-api-4467357"
 }
